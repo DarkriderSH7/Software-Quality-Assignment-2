@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nh02WpJHKOLkx3CorFgFv5pv+1Ka9R0OZNeu6TgHYglzjdYpTKIUAhagXxKP7yi86++1mCrxQPWhMU4BW9Lq1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suhai\\Downloads\\TriangleSolver\\TriangleSolver\\Syed Suhaib_Hussain_Assignment 2\\Syed Suhaib_Hussain_Assignment 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suhai\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\nunit.consolerunner\\3.17.0\\nunit.consolerunner.3.17.0.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\suhai\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
